@@ -1,0 +1,11 @@
+{
+  "name": "jquery.fixme",
+  "version": "0.1.0",
+  "description": "A jquery plugin for fixing table headers on scroll based on http://codepen.io/jgx/pen/wiIGc",
+  "main": "jquery.fixme.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ispot-tv/jquery.fixme"
+  },
+  "license": "The MIT License (MIT)"
+}
